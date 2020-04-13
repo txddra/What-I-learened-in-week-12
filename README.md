@@ -12,14 +12,13 @@
 - __*This*__ - is basically something used to reference the thing that was used previous to it. 
   
   `function book(title, author) {
-           this.title = title; 
+           this.title = title; </br>
             this.author  = author;`
 
 - __*Constructors*__ - are like regular functions, but are used with the new keyword.
   -it's good practice to capitalize them.
 
-`function Book() 
-{ 
+`function Book() {</br>
   // unfinished code
 }`
 
