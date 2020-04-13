@@ -3,7 +3,6 @@
 ![](https://pics.me.me/welcome-to-javascript-where-the-objects-are-made-up-and-13411868.png)
 ## I learned in week 12, about:
 - *"This"*
-- object inheritance 
 - *constructors*
 - super
 
@@ -22,3 +21,5 @@
   // unfinished code
 }`
 
+- __*Super*__ :
+ is used to access and call functions on an object's parent.
