@@ -13,12 +13,14 @@
   
   `function book(title, author) {
             *this*.title = title; 
+            
             this.author  = author;`
 
 - __*Constructors*__ - are like regular functions, but are used with the new keyword.
   -it's good practice to capitalize them.
 
-`function Book() { 
+`function Book() 
+{ 
   // unfinished code
 }`
 
